@@ -1,0 +1,35 @@
+li {
+  height:70px;
+  width:20%;
+  background-color:yellow;
+  border: 10px solid black;
+  border-radius:20px;
+  font-size: 300%;
+  align-items: center;
+  list-style: none;
+  text-align: center;
+  margin: auto;
+  margin-bottom:0.5em;
+}
+h1 {
+  background-color: black;
+  color:white;
+  /*margin-left: 5em;
+  margin-right: 15em;*/
+  padding-left: 5em;
+  font-size: 400%;
+  margin: auto;
+  width: auto;
+  height: auto;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.container {
+  background-color: red;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  height: auto;
+  width: auto;
+  padding-left: 3em;
+}
